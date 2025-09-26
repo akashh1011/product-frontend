@@ -1,6 +1,6 @@
 // simple API helpers
 
-const BASE_URL = "http://localhost:5000";
+const BASE_URL = "https://product-backend-dovx.onrender.com"; // "http://localhost:5000";
 const API_BASE = "api";
 
 export async function fetchProducts() {
